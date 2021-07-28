@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-03-image-finder/static/css/main.a617e044.chunk.css",
-    "main.js": "/goit-react-hw-03-image-finder/static/js/main.8b2bbb1a.chunk.js",
-    "main.js.map": "/goit-react-hw-03-image-finder/static/js/main.8b2bbb1a.chunk.js.map",
+    "main.css": "/goit-react-hw-03-image-finder/static/css/main.744cb31a.chunk.css",
+    "main.js": "/goit-react-hw-03-image-finder/static/js/main.da78bd77.chunk.js",
+    "main.js.map": "/goit-react-hw-03-image-finder/static/js/main.da78bd77.chunk.js.map",
     "runtime-main.js": "/goit-react-hw-03-image-finder/static/js/runtime-main.8d86a408.js",
     "runtime-main.js.map": "/goit-react-hw-03-image-finder/static/js/runtime-main.8d86a408.js.map",
-    "static/js/2.0ce723c4.chunk.js": "/goit-react-hw-03-image-finder/static/js/2.0ce723c4.chunk.js",
-    "static/js/2.0ce723c4.chunk.js.map": "/goit-react-hw-03-image-finder/static/js/2.0ce723c4.chunk.js.map",
+    "static/css/2.68b64559.chunk.css": "/goit-react-hw-03-image-finder/static/css/2.68b64559.chunk.css",
+    "static/js/2.eeca0ba7.chunk.js": "/goit-react-hw-03-image-finder/static/js/2.eeca0ba7.chunk.js",
+    "static/js/2.eeca0ba7.chunk.js.map": "/goit-react-hw-03-image-finder/static/js/2.eeca0ba7.chunk.js.map",
     "index.html": "/goit-react-hw-03-image-finder/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/goit-react-hw-03-image-finder/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.0ce723c4.chunk.js.LICENSE.txt": "/goit-react-hw-03-image-finder/static/js/2.0ce723c4.chunk.js.LICENSE.txt"
+    "static/css/2.68b64559.chunk.css.map": "/goit-react-hw-03-image-finder/static/css/2.68b64559.chunk.css.map",
+    "static/css/main.744cb31a.chunk.css.map": "/goit-react-hw-03-image-finder/static/css/main.744cb31a.chunk.css.map",
+    "static/js/2.eeca0ba7.chunk.js.LICENSE.txt": "/goit-react-hw-03-image-finder/static/js/2.eeca0ba7.chunk.js.LICENSE.txt",
+    "static/media/defaultImage.2e01288c.jpg": "/goit-react-hw-03-image-finder/static/media/defaultImage.2e01288c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8d86a408.js",
-    "static/js/2.0ce723c4.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.8b2bbb1a.chunk.js"
+    "static/css/2.68b64559.chunk.css",
+    "static/js/2.eeca0ba7.chunk.js",
+    "static/css/main.744cb31a.chunk.css",
+    "static/js/main.da78bd77.chunk.js"
   ]
 }
